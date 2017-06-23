@@ -2,10 +2,6 @@
 
 <span style="font-weight: 400;">The project that he will work on is “</span>[<span style="font-weight: 400;">How to Build a Music Streaming Android App</span>](https://www.liveedu.tv/cleverchuk/R0Eym-how-to-build-a-music-streaming-android-app/)<span style="font-weight: 400;">.” This project is in </span>**TEACHING**<span style="font-weight: 400;"> mode. It is a live and real-world project. This means that you can interact with the streamer and communicate with them directly using chat. Got stuck? Just go ahead and ask him questions.</span>
 
-*   **Starting Date:**<span style="font-weight: 400;"> Tuesday, May 16, 2017</span>
-*   **Schedule:**<span style="font-weight: 400;"> Every day @ 12:00 pm (1-2 hrs) EST</span>
-*   **Ending Date:**<span style="font-weight: 400;"> Tuesday, May 23, 2017</span>
-
 ### <span style="font-weight: 400;">What is the project about?</span>
 
 <span style="font-weight: 400;">Are you bored of creating those “Hello, World” Android projects and want to create something meaningful? Then look no further as this project will teach you on how to build a music streaming Android app. The app will be built from scratch, and the streamer will go through every single step to ensure that the viewer understands the intricacies that go into creating an Android music App.</span>
