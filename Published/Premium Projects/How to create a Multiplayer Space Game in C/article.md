@@ -80,5 +80,3 @@
 *   <span style="font-weight: 400;">Closing Celebration & What Is Next</span>
 
 <span style="font-weight: 400;">The project can be a great learning experience for those who want to improve their game development skills. Game development is a big market and is growing rapidly with every year. With increased demand, there is no reason not to become a game developer. Start now!</span>
-
-<span style="font-weight: 400;">To watch and learn, you need a LiveEdu Pro subscription. With just the subscription, you will not only be able to learn from this tutorial but also get access to other Premium Project Tutorials.</span>
